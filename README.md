@@ -1,1 +1,1 @@
-# skin_cancer_detection_with_Pix2PixGAN
+# Skin Cancer Detection With Pix2PixGan
