@@ -18,7 +18,15 @@ Before you start running the notebook you need to take the Pix2Pixdata and put i
 ```diff 
 - Do not put the Pix2Pixdata in any folder
 ```
-### In the Top left corner toolbar click on runtime
 ![Image of runtime](Runtime_LI.jpg)
+
+### In the Top left corner toolbar click on runtime
+
 ![Image of runtime](Runtime2_LI.jpg)
+
+### Click on Run all to start the training
+
+* For the Pix2Pix to finish it will take a long time
+
+
 
