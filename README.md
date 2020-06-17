@@ -18,3 +18,4 @@ Before you start running the notebook you need to take the Pix2Pixdata and put i
 ```diff 
 - Do not put the Pix2Pixdata in any folder
 ```
+Runtime.PNG
