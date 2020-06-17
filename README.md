@@ -31,6 +31,7 @@ Go to the google collab ipynb in resources
 
 ```diff 
 ! For the average computer it usually takes 2+ hours to complete the training
+!  You might have to put a authorization code
 ```
-##### You might have to put a authorization code
+
 
