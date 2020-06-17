@@ -18,7 +18,7 @@ Before you start running the notebook you need to take the Pix2Pixdata and put i
 ```diff 
 - Do not put the Pix2Pixdata in any folder
 ```
-* In the Top left corner toolbar click on runtime
+### In the Top left corner toolbar click on runtime
 ![Image of runtime](Runtime_LI.jpg)
 ![Image of runtime](Runtime2_LI.jpg)
 
