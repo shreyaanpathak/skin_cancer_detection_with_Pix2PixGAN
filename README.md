@@ -26,7 +26,8 @@ Before you start running the notebook you need to take the Pix2Pixdata and put i
 
 * Click on Run all to start the training
 
-* For the Pix2Pix to finish it will take a long time
-
+```diff 
+! For the Pix2Pix to finish it will take a long time
+```
 
 
