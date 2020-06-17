@@ -20,5 +20,5 @@ Before you start running the notebook you need to take the Pix2Pixdata and put i
 ```
 * In the Top left corner toolbar click on runtime
 ![Image of runtime](Runtime.PNG)
-
+![Image of runtime](Runtime2.PNG)
 
