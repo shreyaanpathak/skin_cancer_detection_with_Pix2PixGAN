@@ -7,6 +7,7 @@
 
 ## Resources
 Pix2PixData: https://drive.google.com/file/d/1nukfGbIpiJ_54EQN2SgwQ8rjr_91tpxY/view?ts=5ee3038a
+
 GoogleCollab: https://colab.research.google.com/drive/1owuePH1cfXwokWWg8SPcC0-d_Piw1_na?ts=5ee302d7
 	
 ## Technologies
